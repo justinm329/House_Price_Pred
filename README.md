@@ -23,7 +23,9 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 ## Installations
 
 `pip install pandas`
+
 `pip install numpy`
+
 `pip install -U scikit-learn`
 
 
